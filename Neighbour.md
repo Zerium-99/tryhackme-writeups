@@ -24,7 +24,7 @@ Insecure Direct Object Reference (IDOR)
 ### What I've learned
 It is extremely important not to leave sensitive information in website source code or comments, as this can help attackers discover vulnerabilities. Additionally, developers must ensure that URL parameters are properly validated and access-controlled, to prevent IDOR and similar attacks.
 
-### Screenshots of what I've done
+### Screenshots
 
 Here are the screenshoots of the challenge, explaining them.
 
