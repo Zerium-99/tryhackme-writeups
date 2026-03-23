@@ -27,6 +27,7 @@ It is extremely important not to leave sensitive information in website source c
 ### Screenshots
 
 Here are the screenshoots of the challenge, explaining them.
+
 In this screenshot, I inspected the HTML structure of the website, seeing if there were sensitive information about the website:
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/d5831dcf-80fd-4c64-b8a4-7eac1be5694a" />
 
