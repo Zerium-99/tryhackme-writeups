@@ -42,6 +42,14 @@ In the second one, I gained unauthorized access to the admin account using IDOR.
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/4ef23f6e-58af-4658-889e-f28ffabb40f8" />
 
 ### Source Code Analysis
+
+While inspecting the HTML source code using browser developer tools, we can see a comment with sensitive information.
+The comment reveals:
+1. Default credentials: `guest:guest`
+2. Reference to an existing `admin` account
+
+This represents poor security practice, as sensitive information should never be exposed in client-side code.
+
 ```
 <html lang="en"><head>
     <meta charset="UTF-8">
