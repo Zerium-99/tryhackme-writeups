@@ -42,7 +42,43 @@ In the second one, I gained unauthorized access to the admin account using IDOR.
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/4ef23f6e-58af-4658-889e-f28ffabb40f8" />
 
 ### Source Code Analysis
-..
+```
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body{ font: 14px sans-serif; }
+        .wrapper{ width: 360px; padding: 20px; margin: 0 auto; }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <h2>Login</h2>
+        <p>Please fill in your credentials to login.</p>
+
+        
+        <form action="/index.php" method="post">
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" name="username" class="form-control " value="">
+                <span class="invalid-feedback"></span>
+            </div>    
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" name="password" class="form-control ">
+                <span class="invalid-feedback"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" class="btn btn-primary" value="Login">
+            </div>
+            <p>Don't have an account? Use the guest account! (<code>Ctrl+U</code>)</p>
+            <!-- use guest:guest credentials until registration is fixed. "admin" user account is off limits!!!!! -->
+        </form>
+    </div>
+
+</body></html>
+```
 
 ### What I Learned
 
