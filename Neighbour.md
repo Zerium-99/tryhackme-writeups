@@ -32,12 +32,6 @@ Insecure Direct Object Reference (IDOR)
 
 8. This granted unauthorized access to the admin account.
 
-## What I Learned
-
-This challenge demonstrates the risks of exposing sensitive information in source code comments, such as default credentials.
-
-Additionally, it highlights the importance of properly validating and authorizing access to user-controlled parameters. Without proper access control, attackers can exploit vulnerabilities like IDOR to access unauthorized data or accounts.
-
 ### Screenshots
 
 Here are the screenshots of the challenge, explaining them.
@@ -46,6 +40,12 @@ In the first one, I inspected the HTML structure of the website, seeing if there
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/d5831dcf-80fd-4c64-b8a4-7eac1be5694a" />
 In the second one, I gained unauthorized access to the admin account using IDOR.
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/4ef23f6e-58af-4658-889e-f28ffabb40f8" />
+
+### What I Learned
+
+This challenge demonstrates the risks of exposing sensitive information in source code comments, such as default credentials.
+
+Additionally, it highlights the importance of properly validating and authorizing access to user-controlled parameters. Without proper access control, attackers can exploit vulnerabilities like IDOR to access unauthorized data or accounts.
 
 
 
