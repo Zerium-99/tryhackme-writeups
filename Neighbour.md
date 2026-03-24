@@ -12,17 +12,31 @@ The objective of this challenge is to identify a vulnerability in the login page
 ### Vulnerability found
 Insecure Direct Object Reference (IDOR)
 
-### How I Proceeded
-1. I opened Firefox and navigated to the provided URL: http://10.114.154.203/ .
-2. I pressed CTRL+SHIFT+I to open the browser’s developer tools and inspect the HTML structure, so I can understand the website's structure.
-3. I noticed default credentials mentioned in the source code: guest:guest. This is the first mistake made by the website developer: he left sensitive comments in the website.
-4. I used these credentials to log in to the guest account.
-5. I observed the profile URL: http://10.114.154.203/profile.php?user=guest.
-6. I recognized this as a potential IDOR vulnerability.
-7. I replaced guest with admin in the URL: doing this, I gained unauthorized access to the admin account, exploiting an URL parameter.
+## How I proceeded
 
-### What I've learned
-It is extremely important not to leave sensitive information in website source code or comments, as this can help attackers discover vulnerabilities. Additionally, developers must ensure that URL parameters are properly validated and access-controlled, to prevent IDOR and similar attacks.
+1. I accessed the target web application at the provided IP address.
+
+2. I inspected the website using browser developer tools to understand its structure and identify any potential sensitive information.
+
+3. I discovered default credentials (guest:guest) in the HTML comments, which indicates poor security practices.
+
+4. I used these credentials to log in as a guest user.
+
+5. After logging in, I analyzed the profile URL:
+   /profile.php?user=guest
+
+6. I identified this as a potential IDOR vulnerability because the user parameter was directly modifiable.
+
+7. I changed the parameter from guest to admin:
+   /profile.php?user=admin
+
+8. This granted unauthorized access to the admin account.
+
+## What I Learned
+
+This challenge demonstrates the risks of exposing sensitive information in source code comments, such as default credentials.
+
+Additionally, it highlights the importance of properly validating and authorizing access to user-controlled parameters. Without proper access control, attackers can exploit vulnerabilities like IDOR to access unauthorized data or accounts.
 
 ### Screenshots
 
