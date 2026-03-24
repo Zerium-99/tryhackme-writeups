@@ -41,6 +41,9 @@ In the first one, I inspected the HTML structure of the website, seeing if there
 In the second one, I gained unauthorized access to the admin account using IDOR.
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/4ef23f6e-58af-4658-889e-f28ffabb40f8" />
 
+### Source Code Analysis
+..
+
 ### What I Learned
 
 This challenge demonstrates the risks of exposing sensitive information in source code comments, such as default credentials.
