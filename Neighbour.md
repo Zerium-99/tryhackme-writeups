@@ -12,7 +12,7 @@ The objective of this challenge is to identify a vulnerability in the login page
 ### Vulnerability found
 Insecure Direct Object Reference (IDOR)
 
-## How I proceeded
+## Methodology
 
 1. I accessed the target web application at the provided IP address.
 
