@@ -40,7 +40,7 @@ Additionally, it highlights the importance of properly validating and authorizin
 
 ### Screenshots
 
-Here are the screenshoots of the challenge, explaining them.
+Here are the screenshots of the challenge, explaining them.
 
 In the first one, I inspected the HTML structure of the website, seeing if there were sensitive information about the website. As we can see, the comments clearly show us that there is something wrong with the admin account:
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/d5831dcf-80fd-4c64-b8a4-7eac1be5694a" />
