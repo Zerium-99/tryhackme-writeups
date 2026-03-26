@@ -1,0 +1,7 @@
+### TryHackme Room: OhSINT (CTF Challenge)
+
+### Room Link
+[Click here to open the room](https://tryhackme.com/room/ohsint)
+
+### Room Description
+What information can you possibly get with just one image file?
