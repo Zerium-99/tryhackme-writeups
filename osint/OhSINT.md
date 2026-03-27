@@ -15,7 +15,9 @@ The objective of this room is to find as much information as possible by only ha
 ### Information gathered
 
 Username: `Owoodflimt`
+
 Password: `pennYDr0pper.!`
+
 City: `London`
 
 ## Methodology
