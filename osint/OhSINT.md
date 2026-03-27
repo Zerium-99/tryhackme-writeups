@@ -22,6 +22,8 @@ City: `London`
 
 Email Address: `owoodflint@gmail.com`
 
+Personal Website: `https://oliverwoodflint.wordpress.com/`
+
 ## Methodology
 
 1. I check if the image file has metadata that can reveal sensitive information. To do this, I'm gonna use exiftool, a tool that lets us see metadatas in files. I ran the following command: exiftool WindowsXP_1551719014755.jpg
