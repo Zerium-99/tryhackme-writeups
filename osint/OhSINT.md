@@ -12,9 +12,11 @@ What information can you possibly get with just one image file?
 
 The objective of this room is to find as much information as possible by only having an image, using OSINT techniques.
 
-### Vulnerability found
+### Information gathered
 
-Exposure of identity and personal data due to metadata contained image file.
+Username: `Owoodflimt`
+Password: `pennYDr0pper.!`
+City: `London`
 
 ## Methodology
 
