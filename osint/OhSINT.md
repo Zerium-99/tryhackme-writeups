@@ -20,5 +20,19 @@ Exposure of identity and personal data due to metadata contained image file.
 
 1. I check if the image file has metadata that can reveal sensitive information. To do this, I'm gonna use exiftool, a tool that lets us see metadatas in files. I ran the following command: exiftool WindowsXP_1551719014755.jpg
 
-2.
+<img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/f39d1c8c-85a8-47d4-ac38-06b6d8dacfed" />
+
+2. We can see that there is an important metadata that lets us know the username of the target: `Copyright: OWoodflint`. After that, I did a research on Google to see what I could find.
+
+3. With a simple research, I found his github profile. His readme reveals some information that might expose him more, such as city(London), twitter account, email address(owoodflint@gmail.com) and his website(his website can be useful for our osint research, maybe we can find some comments in the HTML code that can help us know more about the target).
+   
+<img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/a3b96c14-3293-4e88-be03-5342a93b65d7" />
+
+4. I visit his website: https://oliverwoodflint.wordpress.com/. There is nothing much to see here, but I found the user's password by inspecting the website's source code. Password found: `pennYDr0pper.!` .
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/930e2b9c-3f38-4af6-990e-c74dcc237170" />
+
+
+
+
 
