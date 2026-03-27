@@ -30,7 +30,8 @@ Exposure of identity and personal data due to metadata contained image file.
 
 4. I visit his website: https://oliverwoodflint.wordpress.com/. There is nothing much to see here, but I found the user's password by inspecting the website's source code. Password found: `pennYDr0pper.!` .
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/930e2b9c-3f38-4af6-990e-c74dcc237170" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10ac3350-9aa2-4ffe-836c-b0db9049b42e" />
+
 
 
 
