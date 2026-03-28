@@ -34,6 +34,7 @@ The objective of this room is to find as much information as possible by only ha
 | Wifi SSID                | `UnileverWifi`                         |
 | Holiday Destination      | `New York`                             |
 | GPS Position             | `54 deg 17' 41.27" N, 2 deg 15' 1.33" W` |
+| User avatar              | `Cat`                                  |
 
 
 ## Methodology
