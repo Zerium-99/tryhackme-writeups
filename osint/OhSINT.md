@@ -12,6 +12,14 @@ What information can you possibly get with just one image file?
 
 The objective of this room is to find as much information as possible by only having an image, using OSINT techniques.
 
+### Used Tools
+
+| Tool                     | Scope
+|-------------------------------------------------------------------|
+| Sherlock                 | Accounts finder.                       |
+| Wigle.net                | Find his Wifi SSID.                    |
+| Exiftool                 | Metadata extraction                    |
+
 ### Information gathered
 
 | Info                     | Result                                 |
