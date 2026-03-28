@@ -60,7 +60,9 @@ The objective of this room is to find as much information as possible by only ha
 
 
 
-6. We can now utilise the BBSID to find his Wifi SSID, using a tool called [wigle.net](https://wigle.net)
+6. We can now utilise the BSSID to find his Wifi SSID, using a tool called [Wigle](https://wigle.net): Wigle is a community-driven database of wireless networks worldwide.
+
+
 
 
 
