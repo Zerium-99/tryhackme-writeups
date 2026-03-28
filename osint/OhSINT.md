@@ -17,7 +17,7 @@ The objective of this room is to find as much information as possible by only ha
 | Tool        | Scope                            |
 |-------------|----------------------------------|
 | `Sherlock`  | Find the target's social networks|
-| `Wigle.net` | Find his Wifi SSID               |
+| `Wigle.net` | Find the target's Wifi SSID      |
 | `ExifTool`  | Metadata extraction              |   
 
 
@@ -47,7 +47,7 @@ The objective of this room is to find as much information as possible by only ha
    
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/a3b96c14-3293-4e88-be03-5342a93b65d7" />
 
-4. I visit his website: https://oliverwoodflint.wordpress.com/. There is nothing much to see here, but I found the user's password by inspecting the website's source code. Password found: `pennYDr0pper.!` .
+4. I visited his website: https://oliverwoodflint.wordpress.com/. There is nothing much to see here, but I found the user's password by inspecting the website's source code. Password found: `pennYDr0pper.!` .
 
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/da0f71dc-ae3b-4fd2-934b-b7e7a21a8791" />
 
