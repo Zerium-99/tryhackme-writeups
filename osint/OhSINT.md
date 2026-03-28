@@ -44,7 +44,7 @@ The objective of this room is to find as much information as possible by only ha
 
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/f39d1c8c-85a8-47d4-ac38-06b6d8dacfed" />
 
-2. We can see that there is an important metadata that lets us know the username of the target: `Copyright: OWoodflint`. After that, I did a research on Google to see what I could find.
+2. We can see that there is an important metadata that lets us know the username of the target: `Copyright: OWoodflint`. After that, I performed a more detailed search using `sherlock`.
 
 3. With a simple research, I found his github profile. His readme reveals some information that might expose him more, such as city(London), twitter account, email address(owoodflint@gmail.com) and his website(his website can be useful for our osint research, maybe we can find some comments in the HTML code that can help us know more about the target).
    
