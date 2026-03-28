@@ -63,6 +63,11 @@ The objective of this room is to find as much information as possible by only ha
 
 
 6. We can now utilise the BSSID to find his Wifi SSID, using a tool called [Wigle](https://wigle.net): Wigle is a community-driven database of wireless networks worldwide.
+I've put his BSSID in the search bar to see if it was contained in the Wigle's database. The result shows that his Wifi SSID is `UnileverWifi`, which is located in London, the exact city where he currently lives in.
+
+<img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/1e667248-413a-4062-ab03-feb1c6bfc3da" />
+
+
 
 
 
