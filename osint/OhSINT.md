@@ -14,11 +14,11 @@ The objective of this room is to find as much information as possible by only ha
 
 ### Used Tools
 
-| Tool        | Scope                            |
-|-------------|----------------------------------|
-| `Sherlock`  | Find the target's social networks|
-| `Wigle.net` | Find the target's Wifi SSID      |
-| `ExifTool`  | Metadata extraction              |   
+| Tool        | Scope                                               |
+|-------------|-----------------------------------------------------|
+| `Sherlock`  | Find the target's social networks                   |
+| `Wigle.net` | Find the target's Wifi SSID                         |
+| `ExifTool`  | Metadata extraction                                 |   
 
 
 ### Information gathered
