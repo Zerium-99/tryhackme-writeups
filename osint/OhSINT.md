@@ -14,21 +14,16 @@ The objective of this room is to find as much information as possible by only ha
 
 ### Information gathered
 
-Username: `Owoodflimt`
-
-Password: `pennYDr0pper.!`
-
-City: `London`
-
-Email Address: `owoodflint@gmail.com`
-
-Personal Website: `https://oliverwoodflint.wordpress.com/`
-
-Wifi BSSID: `B4:5D:50:AA:86:41`
-
-Wifi SSID: `UnileverWifi`
-
-Place where he went on holiday: `New York`
+| Field                     | Value                                  |
+|--------------------------|----------------------------------------|
+| Username                 | `Owoodflimt`                           |
+| Password                 | `pennYDr0pper.!`                       |
+| City                     | `London`                               |
+| Email Address            | `owoodflint@gmail.com`                 |
+| Personal Website         | `https://oliverwoodflint.wordpress.com/` |
+| Wifi BSSID               | `B4:5D:50:AA:86:41`                    |
+| Wifi SSID                | `UnileverWifi`                         |
+| Holiday Destination      | `New York`                             |
 
 ## Methodology
 
