@@ -14,15 +14,16 @@ The objective of this room is to find as much information as possible by only ha
 
 ### Used Tools
 
-| Tool                     | Scope
-|-------------------------------------------------------------------|
-| Sherlock                 | Accounts finder.                       |
-| Wigle.net                | Find his Wifi SSID.                    |
-| Exiftool                 | Metadata extraction                    |
+| Tool        | Scope                          |
+|-------------|--------------------------------|
+| Sherlock    | Account  finder                |
+| Wigle.net   | Find his Wifi SSID             |
+| ExifTool    | Metadata extraction            |   
+
 
 ### Information gathered
 
-| Info                     | Result                                 |
+| Info                     | Result                          
 |--------------------------|----------------------------------------|
 | Username                 | `Owoodflint`                           |
 | Password                 | `pennYDr0pper.!`                       |
