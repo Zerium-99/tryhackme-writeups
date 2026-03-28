@@ -24,7 +24,11 @@ Email Address: `owoodflint@gmail.com`
 
 Personal Website: `https://oliverwoodflint.wordpress.com/`
 
-BSSID: `B4:5D:50:AA:86:41`
+Wifi BSSID: `B4:5D:50:AA:86:41`
+
+Wifi SSID: `UnileverWifi`
+
+Place where he went on holiday: `New York`
 
 ## Methodology
 
