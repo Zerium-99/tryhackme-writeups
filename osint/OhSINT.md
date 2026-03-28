@@ -16,9 +16,9 @@ The objective of this room is to find as much information as possible by only ha
 
 | Tool        | Scope                          |
 |-------------|--------------------------------|
-| Sherlock    | Account  finder                |
-| Wigle.net   | Find his Wifi SSID             |
-| ExifTool    | Metadata extraction            |   
+| `Sherlock`  | Account  finder                |
+| `Wigle.net` | Find his Wifi SSID             |
+| `ExifTool`  | Metadata extraction            |   
 
 
 ### Information gathered
