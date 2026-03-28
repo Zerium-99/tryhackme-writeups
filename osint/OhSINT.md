@@ -75,7 +75,7 @@ The user exposed themselves too much, mainly due to metadata contained in the im
 
 ## How can we prevent this?
 
-To protect our privacy from metadata, we must be cautious when posting images online, because they often contain a lot of metadata that can reveal sensitive information. We can completely remove metadata from images by using MAT2 (Metadata Anonymisation Toolkit), a tool pre-installed in privacy-oriented distributions like Parrot OS and Tails OS.
+To protect our privacy from metadata, we must be cautious when posting images online, because they often contain a lot of metadata that can reveal sensitive information. We can completely remove metadata from images by using MAT2 (Metadata Anonymisation Toolkit), a tool pre-installed in privacy-oriented Linux distributions like Parrot OS and Tails OS.
 
 ## What I learned
 
