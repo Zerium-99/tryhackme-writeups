@@ -24,6 +24,8 @@ Email Address: `owoodflint@gmail.com`
 
 Personal Website: `https://oliverwoodflint.wordpress.com/`
 
+BSSID: `B4:5D:50:AA:86:41`
+
 ## Methodology
 
 1. I checked if the image file has metadata that can reveal sensitive information. To do this, I used ExifTool, a tool that lets us see metadatas in files. I ran the following command: 
