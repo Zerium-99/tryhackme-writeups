@@ -56,7 +56,7 @@ The objective of this room is to find as much information as possible by only ha
 
 
 
-5. I viewed the target's X profile, noticing a post that reveals his Wifi BBSID(which is something you should never post online, because it reveals even more information to the attacker):
+5. I viewed the target's X profile, noticing a post that reveals his Wifi BSSID(which is something you should never post online, because it reveals even more information to the attacker):
 
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/c514fc22-4383-4f85-bf9c-86e408329428" />
 
