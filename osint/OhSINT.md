@@ -14,7 +14,7 @@ The objective of this room is to find as much information as possible by only ha
 
 ### Information gathered
 
-| Field                     | Value                                  |
+| Info                     | Result                                 |
 |--------------------------|----------------------------------------|
 | Username                 | `Owoodflimt`                           |
 | Password                 | `pennYDr0pper.!`                       |
