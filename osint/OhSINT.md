@@ -16,7 +16,7 @@ The objective of this room is to find as much information as possible by only ha
 
 | Info                     | Result                                 |
 |--------------------------|----------------------------------------|
-| Username                 | `Owoodflimt`                           |
+| Username                 | `Owoodflint`                           |
 | Password                 | `pennYDr0pper.!`                       |
 | City                     | `London`                               |
 | Email Address            | `owoodflint@gmail.com`                 |
