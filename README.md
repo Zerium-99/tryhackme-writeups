@@ -5,7 +5,10 @@
 My TryHackMe writeups and cybersecurity learning journey.  
 Here I document how I exploited vulnerable machines, how they work and why they work, along with the key concepts and lessons learned from each challenge.
 
-# ⚠️ Disclaimer
+## 📂 Structure
+Writeups are organized by category (web exploitation, OSINT, etc.) to reflect different areas of cybersecurity.
+
+## ⚠️ Disclaimer
 
 Everything has been done on a safe virtual environment. Do not use these techniques to attack systems you don't have explicit permission to test.
 
