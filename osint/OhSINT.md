@@ -39,7 +39,7 @@ The objective of this room is to find as much information as possible by only ha
 
 ## 📝 Methodology
 
-1. I checked if the image file had metadata that can reveal sensitive information. To do this, I used ExifTool, a tool that lets us see metadatas in files. I ran the following command: 
+1. I checked if the image file had metadata that can reveal sensitive information. To do this, I used ExifTool, a tool that lets us see metadata in files. I ran the following command: 
 `exiftool WindowsXP_1551719014755.jpg`
 
 <img width="1919" height="1040" alt="image" src="https://github.com/user-attachments/assets/f39d1c8c-85a8-47d4-ac38-06b6d8dacfed" />
