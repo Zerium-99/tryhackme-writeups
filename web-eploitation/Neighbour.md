@@ -1,18 +1,18 @@
-### TryHackme Room: Neighbour (CTF Challenge)
+### 🚩 TryHackme Room: Neighbour (CTF Challenge)
 
-## Room Link
+## 📎 Room Link
 [Click here to open the room](https://tryhackme.com/room/neighbour)
 
-## Room Description
+## 📜 Room Description
 Check out our new cloud service, Authentication Anywhere -- log in from anywhere you would like! Users can enter their username and password, for a totally secure login process! You definitely wouldn't be able to find any secrets that other people have in their profile, right?
 
-## Objective
+## 🎯 Objective
 The objective of this challenge is to identify a vulnerability in the login page of the website, that can be used to gain unauthorized access to the admin account.
 
 ### Vulnerability found
 Insecure Direct Object Reference (IDOR)
 
-## Methodology
+## 📝 Methodology
 
 1. I accessed the target web application at the provided IP address.
 
@@ -32,7 +32,7 @@ Insecure Direct Object Reference (IDOR)
 
 8. This granted unauthorized access to the admin account.
 
-## Screenshots
+## 📷 Screenshots
 
 Here are the screenshots of the challenge, explaining them.
 
@@ -41,7 +41,7 @@ In the first one, I inspected the HTML structure of the website, seeing if there
 In the second one, I gained unauthorized access to the admin account using IDOR.
 <img width="1600" height="786" alt="image" src="https://github.com/user-attachments/assets/4ef23f6e-58af-4658-889e-f28ffabb40f8" />
 
-## Source Code Analysis
+## 🧪 Source Code Analysis
 
 While inspecting the HTML source code using browser developer tools, we can see a comment with sensitive information.
 The comment reveals:
@@ -88,7 +88,7 @@ This represents poor security practice, as sensitive information should never be
 </body></html>
 ```
 
-## What I Learned
+## ❓ What I Learned
 
 This challenge demonstrates the risks of exposing sensitive information in source code comments, such as default credentials.
 
