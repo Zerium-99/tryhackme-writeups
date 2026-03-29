@@ -8,7 +8,7 @@
 
 What information can you possibly get with just one image file?
 
-### Objective
+### 🎯 Objective
 
 The objective of this room is to find as much information as possible by only having an image, using OSINT techniques.
 
@@ -68,16 +68,16 @@ I've put his BSSID in the search bar to see if it was contained in the Wigle's d
 
 <img width="1920" height="949" alt="image" src="https://github.com/user-attachments/assets/1e667248-413a-4062-ab03-feb1c6bfc3da" />
 
-## Final Thoughts
+## 📕 Final Thoughts
 
 We collected all possible information related to our target. This information could be used by a black hat hacker to carry out illegal activities such as doxxing, social engineering, or phishing attacks.
 The user exposed themselves too much, mainly due to metadata contained in the image file, which allowed us to build a profile of our target.
 
-## How can we prevent this?
+## 🛡️ How can we prevent this?
 
 To protect our privacy from metadata, we must be cautious when posting images online, because they often contain a lot of metadata that can reveal sensitive information. We can completely remove metadata from images by using MAT2 (Metadata Anonymisation Toolkit), a tool pre-installed in privacy-oriented Linux distributions like Parrot OS and Tails OS.
 
-## What I learned
+## ❓ What I learned
 
 This challenge taught me extremely important OPSEC concept: never expose ourselves too much on the internet, everything we say can be used against us. We must think twice before posting something online, because every piece of sensitive information we accidentally share can be used to build a profile about us.
 
