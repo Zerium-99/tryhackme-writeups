@@ -1,10 +1,10 @@
-### TryHackme Room: OhSINT (CTF Challenge)
+### 🚩 TryHackme Room: OhSINT (CTF Challenge)
 
-### Room Link
+### 📎 Room Link
 
 [Click here to open the room](https://tryhackme.com/room/ohsint)
 
-### Room Description
+### 📜 Room Description
 
 What information can you possibly get with just one image file?
 
@@ -12,7 +12,7 @@ What information can you possibly get with just one image file?
 
 The objective of this room is to find as much information as possible by only having an image, using OSINT techniques.
 
-### Used Tools
+### 🛠️ Used Tools
 
 | Tool        | Scope                                               |
 |-------------|-----------------------------------------------------|
@@ -21,7 +21,7 @@ The objective of this room is to find as much information as possible by only ha
 | `ExifTool`  | Metadata extraction                                 |   
 
 
-### Information gathered
+### 👁️ Information gathered
 
 | Info                     | Result                          
 |--------------------------|----------------------------------------|
@@ -37,7 +37,7 @@ The objective of this room is to find as much information as possible by only ha
 | User avatar              | `Cat`                                  |
 
 
-## Methodology
+## 📝 Methodology
 
 1. I checked if the image file had metadata that can reveal sensitive information. To do this, I used ExifTool, a tool that lets us see metadatas in files. I ran the following command: 
 `exiftool WindowsXP_1551719014755.jpg`
