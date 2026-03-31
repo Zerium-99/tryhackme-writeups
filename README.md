@@ -8,6 +8,17 @@ Here I document how I exploited vulnerable machines, how they work and why they 
 ## 📂 Structure
 Writeups are organized by category (web exploitation, OSINT, etc.) to reflect different areas of cybersecurity.
 
+## My Progress
+
+| Info                     | Result                          
+|--------------------------|----------------------------------------|
+| Completed Rooms          | `19`                                   |
+| Badges                   | `5`                                    |
+| Rank                     | `Top 25%`                              |
+| CTF challenges           | `2`                                    |
+| Completed learning paths | `2`                                    |
+
+
 ## ⚠️ Disclaimer
 
 Everything has been done on a safe virtual environment. Do not use these techniques to attack systems you don't have explicit permission to test.
