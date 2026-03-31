@@ -10,7 +10,7 @@ Writeups are organized by category (web exploitation, OSINT, etc.) to reflect di
 
 ## 🏅 Badges
 
-Here are all the badges I earned on Tryhackme, showing my costant progress:
+Here are all the badges I earned on Tryhackme, showing my constant progress:
 
 | Badge Name               | Link                          
 |--------------------------|----------------------------------------|
