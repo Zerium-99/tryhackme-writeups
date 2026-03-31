@@ -1,5 +1,8 @@
 ### 🚩 TryHackme Room: OhSINT (CTF Challenge)
 
+[![Badge](https://img.shields.io/badge/Tryhackme-OhSINT%20Badge-e
+)](https://tryhackme.com/Zerium.px/badges/ohsint?utm_campaign=social_share&utm_medium=social&utm_content=badge&utm_source=copy&sharerId=681356d8ed6fef51149de292)
+
 ### 📎 Room Link
 
 [Click here to open the room](https://tryhackme.com/room/ohsint)
