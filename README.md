@@ -8,15 +8,16 @@ Here I document how I exploited vulnerable machines, how they work and why they 
 ## 📂 Structure
 Writeups are organized by category (web exploitation, OSINT, etc.) to reflect different areas of cybersecurity.
 
-## My Progress
+## 🏅 Badges
 
-| Info                     | Result                          
+Here are all the badges I earned on Tryhackme, showing my costant progress:
+
+| Badge Name               | Link                          
 |--------------------------|----------------------------------------|
-| Completed Rooms          | `19`                                   |
-| Badges                   | `5`                                    |
-| Rank                     | `Top 25%`                              |
-| CTF challenges           | `2`                                    |
-| Completed learning paths | `2`                                    |
+| cat linux.txt            | [View](https://bit.ly/481hdSw)         |
+| Webbed                   | [View](https://bit.ly/4clogaf)         |
+| World Wide Web           | [View](https://bit.ly/3NE7hHQ)         |
+| OhSINT                   | [View](https://bit.ly/4cenAV0)         |
 
 
 ## ⚠️ Disclaimer
