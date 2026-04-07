@@ -49,6 +49,9 @@ The objective of this room is to find as much information as possible by only ha
 
 2. We can see that there is an important metadata that lets us know the username of the target: `Copyright: OWoodflint`. After that, I performed a more detailed search using `sherlock`, a tool that lets us find all social networks where the user is registered. To start, I executed on my shell this command: `sherlock Owoodflint`.
 
+<img width="1913" height="920" alt="image" src="https://github.com/user-attachments/assets/0ad6089d-3efb-439a-860e-a3cb49b480ae" />
+
+
 3. With a simple research, I found his github profile. His readme reveals some information that might expose him more, such as city(London), twitter account, email address(owoodflint@gmail.com) and his website(his website can be useful for our osint research, maybe we can find some comments in the HTML code that can help us know more about the target).
    
 <img width="1920" height="942" alt="image" src="https://github.com/user-attachments/assets/a3b96c14-3293-4e88-be03-5342a93b65d7" />
