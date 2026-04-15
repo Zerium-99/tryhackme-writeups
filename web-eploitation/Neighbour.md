@@ -94,7 +94,11 @@ This challenge demonstrates the risks of exposing sensitive information in sourc
 
 Additionally, it highlights the importance of properly validating and authorizing access to user-controlled parameters. Without proper access control, attackers can exploit vulnerabilities like IDOR to access unauthorized data or accounts.
 
+## 🔍 Find me on
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Zerium.px)
+
+![Discord](https://img.shields.io/badge/Discord-zerium.px-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
