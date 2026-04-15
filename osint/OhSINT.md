@@ -87,7 +87,11 @@ To protect our privacy from metadata, we must be cautious when posting images on
 
 This challenge taught me extremely important OPSEC concept: never expose ourselves too much on the internet, everything we say can be used against us. We must think twice before posting something online, because every piece of sensitive information we accidentally share can be used to build a profile about us.
 
+## 🔍 Find me on
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Zerium.px-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/Zerium.px)
+
+![Discord](https://img.shields.io/badge/Discord-zerium.px-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 
