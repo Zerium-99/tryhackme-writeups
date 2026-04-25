@@ -100,7 +100,7 @@ Additionally, it highlights the importance of properly validating and authorizin
 
 ![Discord](https://img.shields.io/badge/Discord-zerium.px-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-@Zerium_py-212C42?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/Zerium_py)
 
 
 
